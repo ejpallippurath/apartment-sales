@@ -10,7 +10,7 @@ The dataset used in this project contains information about various houses inclu
 We will use a supervised learning approach to train a binary classification model using various machine learning algorithms such as logistic regression, decision trees, and random forests. We will evaluate the performance of each model using metrics such as accuracy, score. The best-performing model will be selected and used for prediction.
 
 ### Results 
-The trained machine learning model will be used to predict whether a house will sell or not based on the given set of features. The results will be presented in the form of a interactive dashboard in jupyter notebook that can be used by technical audience. The end output will help real estate agents and homeowners to make informed decisions about selling their properties.
+The trained machine learning model will be used to predict whether a house will sell or not based on the given set of features. The results will be presented in the form of a interactive widgets in jupyter notebook that can be used by technical audience. The end output will help real estate agents and homeowners to make informed decisions about selling their properties.
 
 
 ![output](https://user-images.githubusercontent.com/84701560/227161009-953ec0c3-2ffa-4b9f-ac9e-7703786cc365.png)
